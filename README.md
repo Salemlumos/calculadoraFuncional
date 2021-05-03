@@ -1,2 +1,2 @@
 # Calculadora
-This is a PHP calculator with interface, just becuse i want to try it.
+This is a PHP calculator...
